@@ -1,2 +1,2 @@
 # API-Customer
-API Customer -  C#, DDD, Patterns e Microsservices Studies
+API Customer -  C#, DDD, Patterns and Microsservices Studies
