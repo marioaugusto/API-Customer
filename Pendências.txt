@@ -1,1 +1,2 @@
 Fazer validação do CPF, utilizando o método padrão como uma extensions
+Corrigir Authenticação com o Google
