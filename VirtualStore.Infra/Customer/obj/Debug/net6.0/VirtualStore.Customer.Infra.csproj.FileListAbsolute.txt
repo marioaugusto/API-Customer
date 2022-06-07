@@ -1,0 +1,15 @@
+/home/mario/Git/VirtualStore/VirtualStore.Customer.Infra/bin/Debug/net6.0/VirtualStore.Customer.Infra.deps.json
+/home/mario/Git/VirtualStore/VirtualStore.Customer.Infra/bin/Debug/net6.0/VirtualStore.Customer.Infra.dll
+/home/mario/Git/VirtualStore/VirtualStore.Customer.Infra/bin/Debug/net6.0/VirtualStore.Customer.Infra.pdb
+/home/mario/Git/VirtualStore/VirtualStore.Customer.Infra/bin/Debug/net6.0/VirtualStore.Customer.Domain.dll
+/home/mario/Git/VirtualStore/VirtualStore.Customer.Infra/bin/Debug/net6.0/VirtualStore.Customer.Domain.pdb
+/home/mario/Git/VirtualStore/VirtualStore.Customer.Infra/obj/Debug/net6.0/VirtualStore.Customer.Infra.csproj.AssemblyReference.cache
+/home/mario/Git/VirtualStore/VirtualStore.Customer.Infra/obj/Debug/net6.0/VirtualStore.Customer.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/home/mario/Git/VirtualStore/VirtualStore.Customer.Infra/obj/Debug/net6.0/VirtualStore.Customer.Infra.AssemblyInfoInputs.cache
+/home/mario/Git/VirtualStore/VirtualStore.Customer.Infra/obj/Debug/net6.0/VirtualStore.Customer.Infra.AssemblyInfo.cs
+/home/mario/Git/VirtualStore/VirtualStore.Customer.Infra/obj/Debug/net6.0/VirtualStore.Customer.Infra.csproj.CoreCompileInputs.cache
+/home/mario/Git/VirtualStore/VirtualStore.Customer.Infra/obj/Debug/net6.0/VirtualStore.Customer.Infra.csproj.CopyComplete
+/home/mario/Git/VirtualStore/VirtualStore.Customer.Infra/obj/Debug/net6.0/VirtualStore.Customer.Infra.dll
+/home/mario/Git/VirtualStore/VirtualStore.Customer.Infra/obj/Debug/net6.0/refint/VirtualStore.Customer.Infra.dll
+/home/mario/Git/VirtualStore/VirtualStore.Customer.Infra/obj/Debug/net6.0/VirtualStore.Customer.Infra.pdb
+/home/mario/Git/VirtualStore/VirtualStore.Customer.Infra/obj/Debug/net6.0/ref/VirtualStore.Customer.Infra.dll

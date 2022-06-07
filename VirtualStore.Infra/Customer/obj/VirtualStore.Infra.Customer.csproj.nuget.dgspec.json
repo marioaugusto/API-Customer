@@ -1,0 +1,210 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/mario/Git/VirtualStore/Master/VirtualStore.Infra/Customer/VirtualStore.Infra.Customer.csproj": {}
+  },
+  "projects": {
+    "/home/mario/Git/VirtualStore/Master/VirtualStore.Domain/Customer/VirtualStore.Domain.Customer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mario/Git/VirtualStore/Master/VirtualStore.Domain/Customer/VirtualStore.Domain.Customer.csproj",
+        "projectName": "VirtualStore.Domain.Customer",
+        "projectPath": "/home/mario/Git/VirtualStore/Master/VirtualStore.Domain/Customer/VirtualStore.Domain.Customer.csproj",
+        "packagesPath": "/home/mario/.nuget/packages/",
+        "outputPath": "/home/mario/Git/VirtualStore/Master/VirtualStore.Domain/Customer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mario/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/mario/Git/VirtualStore/Master/VirtualStore.Shared/VirtualStore.Shared.csproj": {
+                "projectPath": "/home/mario/Git/VirtualStore/Master/VirtualStore.Shared/VirtualStore.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Flunt": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/mario/Git/VirtualStore/Master/VirtualStore.Infra/Customer/VirtualStore.Infra.Customer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mario/Git/VirtualStore/Master/VirtualStore.Infra/Customer/VirtualStore.Infra.Customer.csproj",
+        "projectName": "VirtualStore.Infra.Customer",
+        "projectPath": "/home/mario/Git/VirtualStore/Master/VirtualStore.Infra/Customer/VirtualStore.Infra.Customer.csproj",
+        "packagesPath": "/home/mario/.nuget/packages/",
+        "outputPath": "/home/mario/Git/VirtualStore/Master/VirtualStore.Infra/Customer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mario/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/mario/Git/VirtualStore/Master/VirtualStore.Domain/Customer/VirtualStore.Domain.Customer.csproj": {
+                "projectPath": "/home/mario/Git/VirtualStore/Master/VirtualStore.Domain/Customer/VirtualStore.Domain.Customer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameWorkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/mario/Git/VirtualStore/Master/VirtualStore.Shared/VirtualStore.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mario/Git/VirtualStore/Master/VirtualStore.Shared/VirtualStore.Shared.csproj",
+        "projectName": "VirtualStore.Shared",
+        "projectPath": "/home/mario/Git/VirtualStore/Master/VirtualStore.Shared/VirtualStore.Shared.csproj",
+        "packagesPath": "/home/mario/.nuget/packages/",
+        "outputPath": "/home/mario/Git/VirtualStore/Master/VirtualStore.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mario/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Flunt": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

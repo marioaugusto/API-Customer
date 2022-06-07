@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QnfkUZ4D2ZvXn6W9zL6/N5ZD1yU/aV5apRjOh7ioN0o=",
+  "Source": "VirtualStore.API.Customer",
+  "BasePath": "_content/VirtualStore.API.Customer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m2yOB1xA48MRmQEAkVRHJhm2Qe3IXZLJY92hRDeEsnhv4oX6YWf7UmikCBRJVMh1lf4N8/R30kqoWEzZ1ly7qQ==",
+  "success": true,
+  "projectFilePath": "/home/mario/Git/VirtualStore/Master/VirtualStore.Shared/VirtualStore.Shared.csproj",
+  "expectedPackageFiles": [
+    "/home/mario/.nuget/packages/flunt/1.0.4/flunt.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
