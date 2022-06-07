@@ -13,7 +13,7 @@ Applying Clean Code, Solid (In Reviews).
 
 # improve API performance
 
-Paginations, Filters and compression
+Paginations, Filters and compression (In Reviews)
 
 
 
