@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "s/bjry+7mbRRz2OnXSNzDfyEcFeMBb23MbPWS+Oes0u2lCnu/f65dWIahMNpLtR6jwV+xHV8zpcNP7rQ0Jbjbg==",
+  "dgSpecHash": "SuGoEMOpTMak3AtlRCg1VVTzl+TThxeXpNa/zc4aK+Df+3mWj+isbMuILyxQ6T7oec4lSxOYvve0cMq8R+j9Og==",
   "success": true,
-  "projectFilePath": "/home/mario/Git/VirtualStore/Master/VirtualStore.Domain/Customer/VirtualStore.Domain.Customer.csproj",
+  "projectFilePath": "C:\\Users\\mario\\source\\repos\\API-Customer\\VirtualStore.Domain\\Customer\\VirtualStore.Domain.Customer.csproj",
   "expectedPackageFiles": [
-    "/home/mario/.nuget/packages/flunt/1.0.4/flunt.1.0.4.nupkg.sha512"
+    "C:\\Users\\mario\\.nuget\\packages\\flunt\\1.0.4\\flunt.1.0.4.nupkg.sha512"
   ],
   "logs": []
 }

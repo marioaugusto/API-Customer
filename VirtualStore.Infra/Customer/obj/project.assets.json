@@ -1947,32 +1947,39 @@
     ]
   },
   "packageFolders": {
-    "/home/mario/.nuget/packages/": {}
+    "C:\\Users\\mario\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mario/Git/VirtualStore/Master/VirtualStore.Infra/Customer/VirtualStore.Infra.Customer.csproj",
+      "projectUniqueName": "C:\\Users\\mario\\source\\repos\\API-Customer\\VirtualStore.Infra\\Customer\\VirtualStore.Infra.Customer.csproj",
       "projectName": "VirtualStore.Infra.Customer",
-      "projectPath": "/home/mario/Git/VirtualStore/Master/VirtualStore.Infra/Customer/VirtualStore.Infra.Customer.csproj",
-      "packagesPath": "/home/mario/.nuget/packages/",
-      "outputPath": "/home/mario/Git/VirtualStore/Master/VirtualStore.Infra/Customer/obj/",
+      "projectPath": "C:\\Users\\mario\\source\\repos\\API-Customer\\VirtualStore.Infra\\Customer\\VirtualStore.Infra.Customer.csproj",
+      "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mario\\source\\repos\\API-Customer\\VirtualStore.Infra\\Customer\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/home/mario/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\mario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://proget.icatuseguros.com.br/nuget/Icatu/": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/mario/Git/VirtualStore/Master/VirtualStore.Domain/Customer/VirtualStore.Domain.Customer.csproj": {
-              "projectPath": "/home/mario/Git/VirtualStore/Master/VirtualStore.Domain/Customer/VirtualStore.Domain.Customer.csproj"
+            "C:\\Users\\mario\\source\\repos\\API-Customer\\VirtualStore.Domain\\Customer\\VirtualStore.Domain.Customer.csproj": {
+              "projectPath": "C:\\Users\\mario\\source\\repos\\API-Customer\\VirtualStore.Domain\\Customer\\VirtualStore.Domain.Customer.csproj"
             }
           }
         }
@@ -2027,7 +2034,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

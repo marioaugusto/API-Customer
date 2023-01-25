@@ -22,3 +22,15 @@
 /home/mario/Git/VirtualStore/Master/VirtualStore.Shared/obj/Debug/net6.0/refint/VirtualStore.Shared.dll
 /home/mario/Git/VirtualStore/Master/VirtualStore.Shared/obj/Debug/net6.0/VirtualStore.Shared.pdb
 /home/mario/Git/VirtualStore/Master/VirtualStore.Shared/obj/Debug/net6.0/ref/VirtualStore.Shared.dll
+C:\Users\mario\source\repos\API-Customer\VirtualStore.Shared\bin\Debug\net6.0\VirtualStore.Shared.deps.json
+C:\Users\mario\source\repos\API-Customer\VirtualStore.Shared\bin\Debug\net6.0\VirtualStore.Shared.dll
+C:\Users\mario\source\repos\API-Customer\VirtualStore.Shared\bin\Debug\net6.0\VirtualStore.Shared.pdb
+C:\Users\mario\source\repos\API-Customer\VirtualStore.Shared\obj\Debug\net6.0\VirtualStore.Shared.csproj.AssemblyReference.cache
+C:\Users\mario\source\repos\API-Customer\VirtualStore.Shared\obj\Debug\net6.0\VirtualStore.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\source\repos\API-Customer\VirtualStore.Shared\obj\Debug\net6.0\VirtualStore.Shared.AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\API-Customer\VirtualStore.Shared\obj\Debug\net6.0\VirtualStore.Shared.AssemblyInfo.cs
+C:\Users\mario\source\repos\API-Customer\VirtualStore.Shared\obj\Debug\net6.0\VirtualStore.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\API-Customer\VirtualStore.Shared\obj\Debug\net6.0\VirtualStore.Shared.dll
+C:\Users\mario\source\repos\API-Customer\VirtualStore.Shared\obj\Debug\net6.0\refint\VirtualStore.Shared.dll
+C:\Users\mario\source\repos\API-Customer\VirtualStore.Shared\obj\Debug\net6.0\VirtualStore.Shared.pdb
+C:\Users\mario\source\repos\API-Customer\VirtualStore.Shared\obj\Debug\net6.0\ref\VirtualStore.Shared.dll
